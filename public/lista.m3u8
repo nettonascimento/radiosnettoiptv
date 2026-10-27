@@ -1,0 +1,379 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVARACATI" tvg-logo="https://i.ibb.co/gZwg6pJH/unnamed.png" group-title="VARIEDADE", TV ARACATI
+https://srt01.logicahost.com.br/kc_tvaracati/index.m3u8
+#EXTINF:-1 tvg-id="TVARACATIS1" tvg-logo="https://i.ibb.co/gZwg6pJH/unnamed.png" group-title="VARIEDADE", TV ARACATI S1
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCONECTADOS" tvg-logo="https://i.ibb.co/0R0mC7t9/img-play-logo.png" group-title="VARIEDADE", TV CONECTADOS
+https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCONEXAOCELESTIAL" tvg-logo="https://i.ibb.co/Ng7CkcNf/LOGO-OF22-removebg-preview.png" group-title="GOSPEL", TV CONEXÃO CELESTIAL
+https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLITORALLESTE" tvg-logo="https://i.ibb.co/3yBgXPCp/22-removebg-preview512-removebg-preview.png" group-title="CLIPE", TV LITORAL LESTE
+https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNND" tvg-logo="https://i.ibb.co/99qLRC9p/Logo512.png" group-title="DOCUMENTÁRIO", TV NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+#EXTINF:-1 tvg-id="TES" tvg-logo="https://i.ibb.co/zhkM4hpm/LOGO-OF512.png" group-title="VARIEDADE", TES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNAfilmes" tvg-logo="https://i.ibb.co/q367CSX7/logo600.png" group-title="FILME", TVNAfilmes
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="AWTV" tvg-logo="" group-title="VARIEDADE", AW TV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CARAVANAPLAY" tvg-logo="" group-title="VARIEDADE", CARAVANA PLAY
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-id="CLOUDINGTV" tvg-logo="" group-title="VARIEDADE", CLOUDING TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SÉRIESCLÁSSICAS" tvg-logo="" group-title="FILME", SÉRIES CLÁSSICAS
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSONATA" tvg-logo="" group-title="FILME", TV SONATA
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCLASSICOSDOCINEMA" tvg-logo="" group-title="FILME", TV CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+#EXTINF:-1 tvg-id="CANALDETV" tvg-logo="" group-title="VARIEDADE", CANAL DE TV
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-id="XTREMETV" tvg-logo="" group-title="VARIEDADE", XTREME TV
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL1980" tvg-logo="" group-title="FILME", CANAL 1980
+https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBT" tvg-logo="" group-title="FILME", TV NBT
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSANTA" tvg-logo="" group-title="FILME", TV SANTA
+https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
+#EXTINF:-1 tvg-id="GRAVARNOTÍCIAS" tvg-logo="" group-title="NOTICIA", GRAVAR NOTÍCIAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-id="TVMIURA" tvg-logo="" group-title="FILME", TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+#EXTINF:-1 tvg-id="RBTV" tvg-logo="" group-title="GOSPEL", RB TV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCBRASILTV" tvg-logo="" group-title="CLIPE", MBC BRASIL TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 tvg-id="CINEBRASIL" tvg-logo="" group-title="FILME", CINE BRASIL
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="GLNTV" tvg-logo="" group-title="FILME", GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="GRJNGO" tvg-logo="" group-title="FILME", GRJNGO
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCLUBESJN" tvg-logo="" group-title="FILME", TV CLUBE SJN
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="REDEUTVBRASIL" tvg-logo="" group-title="VARIEDADE", REDE UTV BRASIL
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLATINASAT" tvg-logo="" group-title="VARIEDADE", TV LATINASAT
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="RUNTIME ÇÃO" tvg-logo="" group-title="FILME", RUNTIME AÇÃO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-id="TVCARIOCA" tvg-logo="" group-title="VARIEDADE", TV CARIOCA
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="REDETVMAIS" tvg-logo="" group-title="FILME", REDE TV MAIS
+https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCIDADEVERDESBTPI" tvg-logo="" group-title="ABERTA", TV CIDADE VERDE SBT PI
+https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGUARARASBTPA" tvg-logo="" group-title="ABERTA", TV GUARARÁ SBT PA
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="GEEKDOT" tvg-logo="" group-title="VARIEDADE", GEEKDOT
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CONEXAOTV" tvg-logo="" group-title="VARIEDADE", CONEXÃO TV
+https://pop.uniquetv.com.br/tvconexao/video.m3u8
+#EXTINF:-1 tvg-id="TVARAPUANBAND PB" tvg-logo="" group-title="ABERTA", TV ARAPUAN BAND PB
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="REDETVTOCANTINS" tvg-logo="" group-title="ABERTA", REDE TV TOCANTINS
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:-1 tvg-id="TVODIAREDEPI" tvg-logo="" group-title="ABERTA", TV O DIA REDE PI
+https://6836041ea1117.streamlock.net/tvodia/tvodia/chunklist_w1178400659.m3u8
+#EXTINF:-1 tvg-id="TVLITORALRN" tvg-logo="" group-title="VARIEDADE", TV LITORAL RN
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVALTERNATIVA" tvg-logo="" group-title="VARIEDADE", TV ALTERNATIVA
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMONHD" tvg-logo="" group-title="VARIEDADE", TV MON HD
+https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPAMPAREDETVRS" tvg-logo="" group-title="ABERTA", TV PAMPA REDE TV RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSIMRECORDNEWSES" tvg-logo="" group-title="NOTICIA", TV SIM RECORD NEWS ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-id="JUSTFORLAUGHSGAGS" tvg-logo="" group-title="PEGADINHA", JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="REDEVIDA" tvg-logo="" group-title="CATÓLICA", REDE VIDA
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-id="TVGALLO" tvg-logo="" group-title="INFANTIL", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS" tvg-logo="" group-title="VARIEDADE", TVE RS
+https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AUGETV" tvg-logo="" group-title="VARIEDADE", AUGE TV
+https://video01.logicahost.com.br/canalaugetv/canalaugetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CANALFUTURA" tvg-logo="" group-title="PÚBLICA", CANAL FUTURA
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-id="REDEMINAS" tvg-logo="" group-title="VARIEDADE", REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+" tvg-logo="" group-title="ESPORTE", FIFA+
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUNIAONATAL" tvg-logo="" group-title="CLIPE", TV UNIÃO NATAL
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVDIARIODOSERTAO" tvg-logo="" group-title="REGIONAL", TV DIÁRIO DO SERTÃO
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1267444653.m3u8
+#EXTINF:-1 tvg-id="JETSONSTV" tvg-logo="" group-title="VARIEDADE", JETSONS TV
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="ALECE" tvg-logo="" group-title="PÚBLICA", ALECE
+https://streaming.viralmidia.com/hls/stream1/index.m3u8
+#EXTINF:-1 tvg-id="CAZETV" tvg-logo="" group-title="ESPORTE", CAZÉ TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
+#EXTINF:-1 tvg-id="NESPORTES" tvg-logo="" group-title="ESPORTE", N ESPORTES
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="RSNEWSESPORTES5" tvg-logo="" group-title="ESPORTE", RS NEWS ESPORTES 5
+https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w268379275.m3u8
+#EXTINF:-1 tvg-id="UNIQUESPORTS1" tvg-logo="" group-title="ESPORTE", UNIQUE SPORTS 1
+https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="REDBULLTV" tvg-logo="" group-title="ESPORTE", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="DRIVECHANNELTV" tvg-logo="" group-title="FILME", DRIVE CHANNEL TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w1783884727.m3u8
+#EXTINF:-1 tvg-id="SONYONECINEMA" tvg-logo="" group-title="FILME", SONY ONE CINEMA
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-id="WEBTVCLASSICOSDOCINEMA" tvg-logo="" group-title="FILME", WEB TV CLÁSSICOS DO CINEMA
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TVCLASSIC" tvg-logo="" group-title="FILME", TV CLASSIC
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w122097676.m3u8
+#EXTINF:-1 tvg-id="SUPERTV" tvg-logo="" group-title="FILME", SUPER TV
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w1849269373.m3u8
+#EXTINF:-1 tvg-id="ALJAZEERAENGLISH" tvg-logo="" group-title="NOTICIA", AL JAZEERA ENGLISH
+https://live-hls-apps-aje-fa.getaj.net/AJE/04.m3u8
+#EXTINF:-1 tvg-id="ABCNEWS" tvg-logo="" group-title="NOTICIA", ABC NEWS
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index_4.m3u8
+#EXTINF:-1 tvg-id="RITTV" tvg-logo="" group-title="GOSPEL", RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="NHKWORLD" tvg-logo="" group-title="INTERNACIONAL", NHK WORLD
+https://media-osa.hls.nhkworld.jp/hls/w/live/1/sig/f15f9e1edc8ea58b08e14cf65578954528742cadb8d571e09bbbd5850f67daa2/v3.m3u8
+#EXTINF:-1 tvg-id="REDEMAISFAMILIA" tvg-logo="" group-title="GOSPEL", REDE MAIS FAMÍLIA
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1402949054.m3u8
+#EXTINF:-1 tvg-id="TVCOMSANTOS" tvg-logo="" group-title="PÚBLICA", TVCOM SANTOS
+https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w1557483166.m3u8
+#EXTINF:-1 tvg-id="TVCCONCODIA" tvg-logo="" group-title="PÚBLICA", TVC CONCÓDIA
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+#EXTINF:-1 tvg-id="TVOURINHOS" tvg-logo="" group-title="VARIEDADE", TV OURINHOS
+https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/chunklist_w1316886048.m3u8
+#EXTINF:-1 tvg-id="TVCIDADEARACATUBAGAZETA" tvg-logo="" group-title="VARIEDADE", TVCIDADE ARAÇATUBA GAZETA
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1565784365.m3u8
+#EXTINF:-1 tvg-id="TVCRIO" tvg-logo="" group-title="PÚBLICA", TVC RIO
+https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w2111481862.m3u8
+#EXTINF:-1 tvg-id="TVACRITICA" tvg-logo="" group-title="ABERTA", TV A CRITICA
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVALAGOINHA" tvg-logo="" group-title="VARIEDADE", TV ALAGOINHA
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w645571730.m3u8
+#EXTINF:-1 tvg-id="RSESPORTES" tvg-logo="" group-title="ESPORTE", RS ESPORTES
+https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w918782735.m3u8
+#EXTINF:-1 tvg-id="RSESPORTES2" tvg-logo="" group-title="ESPORTE", RS ESPORTES 2
+https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w758937822.m3u8
+#EXTINF:-1 tvg-id="RSESPORTES3" tvg-logo="" group-title="ESPORTE", RS ESPORTES 3
+https://video07.logicahost.com.br/rssports03/rssports03/chunklist_w1349448991.m3u8
+#EXTINF:-1 tvg-id="RSESPORTES4" tvg-logo="" group-title="ESPORTE", RS ESPORTES 4
+https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w766103013.m3u8
+#EXTINF:-1 tvg-id="RSESPORTES5" tvg-logo="" group-title="ESPORTE", RS ESPORTES 5
+https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w2145573252.m3u8
+#EXTINF:-1 tvg-id="REDETVPARANÁ" tvg-logo="" group-title="ABERTA", REDE TV PARANÁ
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1637349603.m3u8
+#EXTINF:-1 tvg-id="TVDIARIODOSERTÃO" tvg-logo="" group-title="REGIONAL", TV DIÁRIO DO SERTÃO
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/chunklist_w1857701352.m3u8
+#EXTINF:-1 tvg-id="TVCOM" tvg-logo="" group-title="PÚBLICA", TVCOM
+https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/chunklist_w1578142173.m3u8
+#EXTINF:-1 tvg-id="TCM10" tvg-logo="" group-title="REGIONAL", TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="RETROCARTOON" tvg-logo="" group-title="INFANTIL", RETRÔ CARTOON
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w550678570.m3u8
+#EXTINF:-1 tvg-id="TVCLASSICOS" tvg-logo="" group-title="FILME", TV CLÁSSICOS
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w799269772.m3u8
+#EXTINF:-1 tvg-id="CINECATASTROFE" tvg-logo="" group-title="FILME", CINE CATÁSTROFE
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1288732069.m3u8
+#EXTINF:-1 tvg-id="TVARATUSBT" tvg-logo="" group-title="ABERTA", TV ARATU SBT
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
+#EXTINF:-1 tvg-id="JOVEMPAMNEWS" tvg-logo="" group-title="NOTICIA", JOVEM PAM NEWS
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="SBTNEWS" tvg-logo="" group-title="NOTICIA", SBT NEWS
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="CANALINFANTIL" tvg-logo="https://i.ibb.co/d4MZb2DB/LOGO-OF.png" group-title="INFANTIL", CANAL INFANTIL
+https://stmv1.voxtvhd.com.br/canalinfantil/canalinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGALINHACHOCA" tvg-logo="https://i.ibb.co/5WGDpwb2/LOGO600.png" group-title="VARIEDADE", TV GALINHA CHOCA
+https://stmv4.voxtvhd.com.br/tvgalinhachoca/tvgalinhachoca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMETROPOLEFORTALEZA" tvg-logo="" group-title="ABERTA", TV METRÓPOLE FORTALEZA
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="GLOBOBAHIA" tvg-logo="" group-title="ABERTA", GLOBO BAHIA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F172.m3u8
+#EXTINF:-1 tvg-id="GLOBORECIFE" tvg-logo="" group-title="ABERTA", GLOBO RECIFE
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F11.m3u8
+#EXTINF:-1 tvg-id="GLOBOCARUARUPE" tvg-logo="" group-title="ABERTA", GLOBO CARUARU PE
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F7379.m3u8
+#EXTINF:-1 tvg-id="BANDPIAUITVTRIBUNA" tvg-logo="" group-title="ABERTA", BAND PIAUI TV TRIBUNA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F226.m3u8
+#EXTINF:-1 tvg-id="BANDSP" tvg-logo="" group-title="ABERTA", BAND SP
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F131.m3u8
+#EXTINF:-1 tvg-id="RECORDSALVADORBA" tvg-logo="" group-title="ABERTA", RECORD SALVADOR BA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F174.m3u8
+#EXTINF:-1 tvg-id="RECORDGUARARAPESPE" tvg-logo="" group-title="ABERTA", RECORD GUARARAPES PE
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F182.m3u8
+#EXTINF:-1 tvg-id="RECORDITABUNA" tvg-logo="" group-title="ABERTA", RECORD ITABUNA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1097796.m3u8
+#EXTINF:-1 tvg-id="RECORDSP" tvg-logo="" group-title="ABERTA", RECORD SP
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F227.m3u8
+#EXTINF:-1 tvg-id="REDETVSP" tvg-logo="" group-title="ABERTA", REDE TV SP
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F31.m3u8
+#EXTINF:-1 tvg-id="REDETVNORDESTE" tvg-logo="" group-title="ABERTA", REDE TV NORDESTE
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F183.m3u8
+#EXTINF:-1 tvg-id="SBTBAHIA" tvg-logo="" group-title="ABERTA", SBT BAHIA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F173.m3u8
+#EXTINF:-1 tvg-id="TVJORNALPE" tvg-logo="" group-title="ABERTA", TV JORNAL PE
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F162.m3u8
+#EXTINF:-1 tvg-id="SBTSP" tvg-logo="" group-title="ABERTA", SBT SP
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F38.m3u8
+#EXTINF:-1 tvg-id="RAITV" tvg-logo="" group-title="INTERNACIONAL", RAI TV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6752.m3u8
+#EXTINF:-1 tvg-id="REDEQDM" tvg-logo="" group-title="VARIEDADE", REDE QDM
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6621.m3u8
+#EXTINF:-1 tvg-id="TVNETWORKCHANNEL" tvg-logo="" group-title="FECHADA", TV NETWORK CHANNEL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6303.m3u8
+#EXTINF:-1 tvg-id="KIDSMAIS" tvg-logo="" group-title="INFANTIL", KIDS MAIS
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F200.m3u8
+#EXTINF:-1 tvg-id="TVBRASIL" tvg-logo="" group-title="PÚBLICA", TV BRASIL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F21.m3u8
+#EXTINF:-1 tvg-id="TVCÂMARA" tvg-logo="" group-title="PÚBLICA", TV CÂMARA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F157.m3u8
+#EXTINF:-1 tvg-id="TVASSEMBLÉIA" tvg-logo="" group-title="PÚBLICA", TV ASSEMBLÉIA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6718.m3u8
+#EXTINF:-1 tvg-id="COMBRASILTV" tvg-logo="" group-title="PÚBLICA", COM BRASIL TV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1101979.m3u8
+#EXTINF:-1 tvg-id="TVGOV" tvg-logo="" group-title="PÚBLICA", TV GOV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F188.m3u8
+#EXTINF:-1 tvg-id="TVESCOLA" tvg-logo="" group-title="PÚBLICA", TV ESCOLA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6717.m3u8
+#EXTINF:-1 tvg-id="PRIMEBOXBRASIL" tvg-logo="" group-title="CLIPE", PRIME BOX BRASIL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6746.m3u8
+#EXTINF:-1 tvg-id="TVLIFEAMÉRICA" tvg-logo="" group-title="VARIEDADE", TV LIFE AMÉRICA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1083553.m3u8
+#EXTINF:-1 tvg-id="URBANDOCS" tvg-logo="" group-title="DOCUMENTÁRIO", URBAN DOCS
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6561.m3u8
+#EXTINF:-1 tvg-id="URBANTRAVEL" tvg-logo="" group-title="FILME", URBAN TRAVEL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6719.m3u8
+#EXTINF:-1 tvg-id="URBANTURBO" tvg-logo="" group-title="VARIEDADE", URBAN TURBO
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6734.m3u8
+#EXTINF:-1 tvg-id="REDEGOSPEL" tvg-logo="" group-title="GOSPEL", REDE GOSPEL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F36.m3u8
+#EXTINF:-1 tvg-id="TVAPARECIDA" tvg-logo="" group-title="CATÓLICA", TV APARECIDA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F47.m3u8
+#EXTINF:-1 tvg-id="TVPAIETERNO" tvg-logo="" group-title="CATÓLICA", TV PAI ETERNO
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F40.m3u8
+#EXTINF:-1 tvg-id="TVTERCEIROANJO" tvg-logo="" group-title="CATÓLICA", TV TERCEIRO ANJO
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1313.m3u8
+#EXTINF:-1 tvg-id="TVMUNDOMAIOR" tvg-logo="" group-title="GOSPEL", TV MUNDO MAIOR
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F208.m3u8
+#EXTINF:-1 tvg-id="AGTV" tvg-logo="" group-title="NOTICIA", AGTV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1103665.m3u8
+#EXTINF:-1 tvg-id="TVCAR" tvg-logo="" group-title="VARIEDADE", TV CAR
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1103669.m3u8
+#EXTINF:-1 tvg-id="TVGAZIN" tvg-logo="" group-title="VARIEDADE", TV GAZIN
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1103672.m3u8
+#EXTINF:-1 tvg-id="TVPROTAGONISTASDOBRASIL" tvg-logo="" group-title="VARIEDADE", TV PROTAGONISTAS DO BRASIL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1103675.m3u8
+#EXTINF:-1 tvg-id="PLOUSFASHIONTV" tvg-logo="" group-title="VARIEDADE", PLOUS FASHION TV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1103803.m3u8
+#EXTINF:-1 tvg-id="TVJUSTIÇA" tvg-logo="" group-title="PÚBLICA", TV JUSTIÇA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F24.m3u8
+#EXTINF:-1 tvg-id="SBCKIDS" tvg-logo="" group-title="INFANTIL", SBC KIDS
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=916ap75i
+#EXTINF:-1 tvg-id="ONDA1TV" tvg-logo="" group-title="WEBTV", ONDA1 TV
+https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8
+#EXTINF:-1 tvg-id="NToonsBrasil" tvg-logo="" group-title="WEBTV", NToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOTIMISTA" tvg-name="TV Otimista" group-title="Ceara",TV OTIMISTA
+https://hls.directradios.com/otimista/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPIX" tvg-logo="" group-title="WEBTV", TV PIX
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6758.m3u8
+#EXTINF:-1 tvg-id="RUNTIMECOMEDIA" tvg-logo="" group-title="FILME", RUNTIME COMEDIA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1325.m3u8
+#EXTINF:-1 tvg-id="RUNTIMEAVENTURA" tvg-logo="" group-title="FILME", RUNTIME AVENTURA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F1299.m3u8
+#EXTINF:-1 tvg-id="URBANMOVIES" tvg-logo="" group-title="FILME", URBAN MOVIES
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6744.m3u8
+#EXTINF:-1 tvg-id="URBANOTAKU" tvg-logo="" group-title="FILME", URBAN OTAKU
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6761.m3u8
+#EXTINF:-1 tvg-id="URBANSERIES" tvg-logo="" group-title="FILME", URBAN SERIES
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6743.m3u8
+#EXTINF:-1 tvg-id="REDEQDM" tvg-logo="" group-title="FILME", REDE QDM
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6621.m3u8
+#EXTINF:-1 tvg-id="AGROCANAL" tvg-logo="" group-title="AGRO", AGRO CANAL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F225.m3u8
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-logo="" group-title="CLIPE", MUSIC BOX BRASIL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6579.m3u8
+#EXTINF:-1 tvg-id="BLITSTV" tvg-logo="" group-title="CLIPE", BLITS TV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F19.m3u8
+#EXTINF:-1 tvg-id="TVAFOLHA" tvg-logo="" group-title="NOTICIA", TV A FOLHA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6590.m3u8
+#EXTINF:-1 tvg-id="SESCTV" tvg-logo="" group-title="FECHADA", SESC TV
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F139.m3u8
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-logo="" group-title="CLIPE", PRIME BOX BRAZIL
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6746.m3u8
+#EXTINF:-1 tvg-id="CANCAONOVA" tvg-logo="" group-title="CATÓLICA", CANÇÃO NOVA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F43.m3u8
+#EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-logo="" group-title="CATÓLICA", TV NOVO TEMPO
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F125.m3u8
+#EXTINF:-1 tvg-id="TVSENADO" tvg-logo="" group-title="PÚBLICA", TV SENADO
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6562.m3u8
+#EXTINF:-1 tvg-id="RADIOCULTURA" tvg-logo="" group-title="RADIO", RADIO CULTURA DE ARACATI
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6301.m3u8
+#EXTINF:-1 tvg-id="RADIOARACATI" tvg-logo="" group-title="RADIO", RADIO ARACATI
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6282.m3u8
+#EXTINF:-1 tvg-id="WEBRADIOCANOAQUEBRADA" tvg-logo="" group-title="RADIO", WEB RADIO CANOA QUEBRADA
+https://play.hplay.tv/stream_proxy.php?url=https%3A%2F%2Fhplay.tv%2Flive%2Ftvaracati%40hplay.tv%2F12345678%2F6289.m3u8
+#EXTINF:-1 tvg-id="TVIBT" tvg-logo="" group-title="FILME", TV IBT
+https://stmv5.voxtvhd.com.br/tvibt2026/tvibt2026/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMAISCHETI" tvg-logo="" group-title="INFANTIL", TV MAISCHETI
+https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEVANGELIZAR" tvg-logo="" group-title="CATÓLICA", TV EVANGELIZAR
+https://ascdn.as.tv.br:9443/R1A05-TV-EVANGELIZAR/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="CANALDOCRIADOR" tvg-logo="" group-title="AGRO", CANAL DOCRIADOR
+https://cdnmulttv.multtv.tv.br:4443/R4NVu6kbNP-xt-z58YQmrg/1792431617/bpk-tv/CANALDOCRIADOR/default/CANALDOCRIADOR-audio_165282_por=164800-video=3300000.m3u8?md5=R4NVu6kbNP-xt-z58YQmrg&expires=1792431617
+#EXTINF:-1 tvg-id="TVSECULO21" tvg-logo="" group-title="GOSPEL", TV SECULO 21
+https://ascdn.as.tv.br:9443/R2A15-TERRA-VIVA/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TELABRASIL" tvg-logo="" group-title="NOVELA", TELA BRASIL
+https://ascdn.as.tv.br:9443/EXTRA-TELA-BRASIL/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="CANALDOBOI" tvg-logo="" group-title="AGRO", CANAL DO BOI
+https://cdnmulttv.multtv.tv.br:1443/2Vyxbxopw1VRrCaxll7RkQ/1792431145/cdn1/CanaldoBoi_720.m3u8
+#EXTINF:-1 tvg-id="TVCULTURASP" tvg-logo="" group-title="PÚBLICA", TV CULTURA SP
+https://ascdn.as.tv.br:9443/R2A11-TV-CULTURA/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVTIMESBRASIL" tvg-logo="" group-title="NOTICIA", TV TIMES BRASIL
+https://ascdn.as.tv.br:9443/R2A16-TV-TIMES-BRASIL/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="BANDCE" tvg-logo="" group-title="Ceara", BAND CE
+https://ascdn.as.tv.br:9443/R1A04-BAND-CE/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVCIDADEFORTALEZA" tvg-logo="" group-title="Ceara", TV CIDADE FORTALEZA
+https://ascdn.as.tv.br:9443/R1A02-TV-CIDADE/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVJANGADEIRO" tvg-logo="" group-title="Ceara", TV JANGADEIRO
+https://ascdn.as.tv.br:9443/R1A01-JANGUADEIRO-CARIRI/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVVERDESMARESCARIRI" tvg-logo="" group-title="Ceara", TV VERDES MARES CARIRI
+https://ascdn.as.tv.br:9443/R1A03-VERDE-MARES-CARIRI/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVVERDESMARESFORTALEZA" tvg-logo="" group-title="Ceara", TV VERDES MARES FORTALEZA
+https://ascdn.as.tv.br:9443/PARCEIRO-VERDES-MARES-FORTALEZA/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVDIARIOFORTALEZA" tvg-logo="" group-title="Ceara", TV DIARIO FORTALEZA
+https://ascdn.as.tv.br:9443/R1A07-TV-DIARIO/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVCIDADEJOINVILEREVISTAOESTE" tvg-logo="" group-title="VARIEDADE", TV CIDADE JOINVILE REVISTA OESTE
+https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
+#EXTINF:-1 tvg-id="WEBRADIODOBEM" tvg-logo="https://i.ibb.co/tSqcJ7v/logo-r-do-b512.png" group-title="RADIO" radio="true", WEB RADIO DO BEM
+https://stm12.pluscast.com.br:7020/
+#EXTINF:-1 tvg-id="CONEXAORADIOSNETTO" tvg-logo="" group-title="RADIO" radio="true", CONEXÃO RADIOSNETTO
+https://stm1.voxhd.com.br:8208
+#EXTINF:-1 tvg-id="RADIORIOJAGUARIBE" tvg-logo="" group-title="RADIO" radio="true", RADIO RIO JAGUARIBE
+https://stm13.voxhd.com.br:8734
+#EXTINF:-1 tvg-id="RADIOWEBSAMAMBAIA" tvg-logo="" group-title="RADIO" radio="true", RADIO WEB SAMAMBAIA
+https://stm12.voxhd.com.br:10046
+#EXTINF:-1 tvg-id="PARAISOWEBRADIO" tvg-logo="" group-title="RADIO" radio="true", PARAISO WEB RADIO
+https://stm15.voxhd.com.br:10922
+#EXTINF:-1 tvg-id="RADIOVENTOLESTE" tvg-logo="" group-title="RADIO" radio="true", RADIO VENTO LESTE
+https://stm15.voxhd.com.br:10938
+#EXTINF:-1 tvg-id="RADIOAVOZVICENTINA" tvg-logo="" group-title="RADIO" radio="true", RADIO AVOZ VICENTINA
+https://stm21.voxhd.com.br:11770
+#EXTINF:-1 tvg-id="RADIOCIDADECANCAOWEB" tvg-logo="" group-title="RADIO" radio="true", RADIO CIDADE CANCAO WEB
+https://stm21.voxhd.com.br:11894
+#EXTINF:-1 tvg-id="WEBRADIOMAREALTA" tvg-logo="" group-title="RADIO" radio="true", WEB RADIO MARE ALTA
+https://stm21.voxhd.com.br:11904
+#EXTINF:-1 tvg-id="WEBRADIODECADAS" tvg-logo="" group-title="RADIO" radio="true", WEB RADIO DÉCADAS
+https://stm21.voxhd.com.br:11906
+#EXTINF:-1 tvg-id="TV EVANGELICADOCARIRI" tvg-logo="" group-title="FECHADA", TV EVANGELICA DO CARIRI
+https://ascdn.as.tv.br:9443/PARCEIRO-TV-EVANGELICA-DO-CARIRI/tracks-v1a1/mono.ts.m3u8?token=NjuKRwBN-Z7j90
+#EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-logo="" group-title="FECHADA", TV NOVO TEMPO
+https://cdnmulttv.multtv.tv.br:5443/iV369e1jdEj18l0sX2OKKA/1793060851/NOVOTEMPO/tracks-v1a1/mono.ts.m3u8?expires=1793060851&md5=iV369e1jdEj18l0sX2OKKA
+#EXTINF:-1 tvg-id="REDEGENESIS" tvg-logo="" group-title="FECHADA", REDE GENESIS
+https://cdnmulttv.multtv.tv.br:1443/xGdi784_qaaD05M1DMT5kg/1793060938/cdn1/RedeGenesis_720.m3u8
+#EXTINF:-1 tvg-id="REDEFAMILIA" tvg-logo="" group-title="FECHADA", REDE FAMILIA
+https://cdnmulttv.multtv.tv.br:1443/xT_u52MH_MN9EkYZFCa3pw/1793061161/cdn1/RedeFamilia_720.m3u8

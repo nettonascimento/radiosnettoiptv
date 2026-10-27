@@ -1,0 +1,9 @@
+[build]
+  publish = "public"
+
+[[headers]]
+  for = "/lista.m3u*"
+  [headers.values]
+    Content-Type = "audio/x-mpegurl; charset=utf-8"
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=0, must-revalidate"
